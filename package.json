@@ -1,0 +1,19 @@
+{
+  "name": "01-Do-you-know-me-CLI-Quiz-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fm": "prettier --write ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "prettier": "^2.4.1",
+    "readline-sync": "^1.4.10"
+  }
+}
